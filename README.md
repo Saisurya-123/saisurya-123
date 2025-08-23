@@ -23,6 +23,8 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-1572B6?style=for-the-badge&logo=sql3&logoColor=white" />
   <img src="https://img.shields.io/badge/GIT-1572B6?style=for-the-badge&logo=git3&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSql-1572B6?style=for-the-badge&logo=PostgreSql3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JQuery-1572B6?style=for-the-badge&logo=JQuery3&logoColor=white" />
 
   <!-- Data & Tools -->
   <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
